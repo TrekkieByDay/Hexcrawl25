@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "02ffc6ff65202240",
+        "id": "2cf3d47c80395e25",
         "type": "tabs",
         "children": [
           {
-            "id": "8d1558289b0bf52d",
+            "id": "b7a379c3867afeb8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Hexcrawl25_Regional_Draft_Example 2.png"
               },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "icon": "lucide-image",
+              "title": "Hexcrawl25_Regional_Draft_Example 2"
             }
           }
         ]
@@ -156,6 +156,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d1558289b0bf52d",
-  "lastOpenFiles": []
+  "active": "b7a379c3867afeb8",
+  "lastOpenFiles": [
+    "Assets.zip",
+    "Assets.zip.tmp",
+    "Assets/Index Images/Hex Flower Index Overlay Pointy.png",
+    "Assets/Index Images/Hex Flower Index Overlay Pointy Transparent.png",
+    "Assets/Index Images/Hex Flower Index Overlay Flat.png",
+    "Assets/Index Images/Hex Flower Index Overlay Flat Transparent.png",
+    "Assets/Index Images",
+    "Assets/Full Map/17x11 Pointy/Hex Grid 2 Layer Pointy 17x11.psd",
+    "Assets/Full Map/17x11 Pointy/Hex Grid 2 Layer Pointy 17x11 Small Overlay.png",
+    "Assets/Full Map/17x11 Pointy/Hex Grid 2 Layer Pointy 17x11 Small Hexes.pdf",
+    "Assets/Full Map/17x11 Pointy/Hex Grid 2 Layer Pointy 17x11 Large Overlay.png",
+    "Assets/Full Map/17x11 Pointy/Hex Grid 2 Layer Pointy 17x11 Large Hex Flower.pdf",
+    "Assets/Full Map/17x11 Pointy/Hex Grid 2 Layer Pointy 17x11 Large Hexes.pdf",
+    "Assets/Full Map/17x11 Pointy/Hex Grid 2 Layer Pointy 17x11 Full.pdf",
+    "Assets/Full Map/17x11 Pointy/Hex Grid 2 Layer Pointy 17x11 Combined Flower.pdf",
+    "Assets/Full Map/17x11 Pointy/Hex Grid 2 Layer Pointy 17x11 5 Small Hex Flower.pdf",
+    "Assets/Full Map/17x11 Flat/Hex Grid 2 Layer Flat 17x11.psd",
+    "Assets/Full Map/17x11 Flat/Hex Grid 2 Layer Flat 17x11 Small Overlay.png",
+    "Assets/Full Map/17x11 Flat/Hex Grid 2 Layer Flat 17x11 Large Export.png",
+    "Assets/Full Map/11x8_5 Flat/Hex Grid 2 Layer Flat 11x8.5 Small Overlay.png",
+    "Assets/Full Map/11x8_5 Flat/Hex Grid 2 Layer Flat 11x8.5 Large Overlay.png",
+    "Hexcrawl25 Project.md"
+  ]
 }
