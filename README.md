@@ -1,3 +1,5 @@
+# Hexcrawl25 Challenge by Maatlock
+
 This year, I'm starting the **Hexcrawl25** challenge, taking inspiration from the awesome [Dungeon23 challenge](https://seanmccoy.substack.com/p/dungeon23) by Sean McCoy. I've been captivated by projects like this since 2023, and just amazed with all the incredible content developed by the community. Not to mention that there is just something I love about the old school art style for dungeon and world mapping-- in particular how easy it is to pick up even if you aren't a particularly skilled artist.
 
 Full disclosure, I didn't complete the Dungeon23 challenge in 2023, nor when I tried again this year. So when I was thinking about what I might want to do in the upcoming year, I gave a lot of thought to designing something I feel like I might actually complete! Not only that, but I wanted more than a megadungeon by the end-- because why stop there when you can make a whole world?
