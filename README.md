@@ -114,5 +114,5 @@ Please take a look at the content [here](https://github.com/TrekkieByDay/Hexcraw
 - [Sly Flourish, the Lazy DM's library of books](https://slyflourish.com/), a.k.a. Mike Shea
 
 ### Developing Map Drawing Skills
-- [JP Coovert, the Bob Ross of our hobby.](https://www.youtube.com/jpcoovert). There are no mistakes, just happen accidents!
+- [JP Coovert, the Bob Ross of our hobby.](https://www.youtube.com/jpcoovert). There are no mistakes, just happy accidents!
 - [Dyson Logos, the great Cartographer of our hobby.](https://dysonlogos.blog/). Hundreds of dungeon and regional maps, many of which are commercially usable by the community
