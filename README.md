@@ -43,18 +43,17 @@ There are many ways to plan this out. I do believe it's important to have a plan
 
 The campaign hex map will consist of 19 regional hexes arranged in a flower, alphabetically labeled in a spiral radiating from the center hex.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![[Hexcrawl25 Template Regional Hexes Labeled.png|300]]
+![Hexcrawl25 Template Regional Hexes Labeled](https://github.com/user-attachments/assets/03ba0fcc-63e7-4f91-b7aa-98235a065e6a)
 
 #### Regional Sub-Hexes and labeling
 
 Each of these regions will consist of sub-hexes that interlock over the regional hexes.
 
-![[Hexcrawl25 Template.png|300]]
+![Hexcrawl25 Template](https://github.com/user-attachments/assets/ae94e6db-bcb7-4bc7-b0a8-8f4f13b7a90c)
 
 The sub-hexes will be labeled numerically with their regional hex letter. Note that each regional hex shares the 6 edge hexes with its neighbors. These shared edge hexes are labeled by their connected region hex letters, e.g., AG or AB.
 
-![[Hexcrawl25 Template Subhexes Labels.png|300]]
+![Hexcrawl25 Template Subhexes Labels](https://github.com/user-attachments/assets/cd847f84-353e-465c-8a26-ff9f42023ff6)
 
 #### Map Scale
 
@@ -62,15 +61,14 @@ Using OSR conventions, each sub-hex is 6 miles. This means that each regional he
 
 #### Drawing Map Region by Region
 
-<div class="page-break"></div>
 For each regional hex, draw map features.
 
-![[Hexcrawl25 Region Example.png|300]]
-<div class="page-break"></div>
+![Hexcrawl25 Region Example](https://github.com/user-attachments/assets/5123f706-3642-46bc-9a72-ac6aae18ddea)
 
 Plan for extension of the map at the hex borders with placeholder draft drawings. Don't fill out the whole map! And even my example might be too detailed. Keep your eye fixed on the next region you plan to build out, and maybe think about some broader features only peripherally.
 
-![[Hexcrawl25_Regional_Draft_Example 3.png|500]]
+![Hexcrawl25_Regional_Draft_Example 3](https://github.com/user-attachments/assets/30dc2e7e-5ea4-4aa6-8249-42272efd694d)
+
 #### Building out Hex Content
 
 Now, the all that's left for the region is to key each one of the hexes with information! For this part, I recommend using a combination of random tables and your own imagination. There are many resources out there to check out. Knave 2e by Ben Milton is a great resource for worldbuilding, but there are many other great resources as well. I would also suggest checking out Patchwork Paladin's blog. It includes some excellent advice on developing engaging hex content.
