@@ -55,6 +55,17 @@ The sub-hexes will be labeled numerically with their regional hex letter. Note t
 
 ![Hexcrawl25 Template Subhexes Labels](https://github.com/user-attachments/assets/cd847f84-353e-465c-8a26-ff9f42023ff6)
 
+Extending this scheme to the edges, we get the following for flat and pointy varieties. Remember! **You do not have to use this scheme... or any indexing scheme!**
+
+##### Flat Index
+
+![Hex Flower Index Overlay Flat](https://github.com/user-attachments/assets/c5d6da06-d2f8-4532-aac7-ad523d5a031d)
+
+##### Pointy Index
+
+![Hex Flower Index Overlay Pointy](https://github.com/user-attachments/assets/ad67e3a8-a525-4cdd-8cfe-e4c249f80c83)
+
+
 #### Map Scale
 
 Using OSR conventions, each sub-hex is 6 miles. This means that each regional hex is 24 miles, which provides a nice sized area to fill in a cohesive set of content.
