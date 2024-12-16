@@ -97,7 +97,7 @@ Note that 319 hexes is less than 365. That's just how the math worked out with t
 
 We can do this! Let's get to mapping!
 
-## Assets For Your Use
+## Assets I Made for the Community's Use
 
 Please take a look at the content [here](https://github.com/TrekkieByDay/Hexcrawl25/tree/main/Assets). You'll find the following:
 - Printable PDFs of both flat and pointy hex maps in 8.5x11 and 11x17 in. formats
